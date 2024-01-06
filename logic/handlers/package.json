@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "aws-sdk": "^2.409.0",
-    "axios": "^0.18.0"
+    "axios": "^1.6.4"
   }
 }
